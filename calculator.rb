@@ -2,4 +2,4 @@
 
 first_number = 1 
 
-secon_number = 3
+second_number = 3
